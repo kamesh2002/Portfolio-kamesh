@@ -7,7 +7,7 @@ const projects = [
     description: 'A social media platform like X with authentication, posting, interactions, and real-time updates.',
     tech: ['React', 'Express.js', 'Node.js', 'MongoDB', 'JWT', 'Cloudinary'],
     github: 'https://github.com/kamesh2002/T-FSD-X',
-    image: 'https://images.unsplash.com/photo-1611162617474-5b21e879e113?auto=format&fit=crop&w=800&q=80'
+    image: 'https://images.unsplash.com/photo-1690233653077-8345102ec630?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fFglMjBjbG9uZXxlbnwwfHwwfHx8MA%3D%3D'
   },
   {
     title: 'Spotify Clone',
